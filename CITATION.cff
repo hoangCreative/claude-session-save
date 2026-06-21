@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this skill or its methodology, please cite it."
+title: "luu (claude-session-save): a verified, safe session-close skill for Claude Code"
+abstract: "A session-close skill that persists agent memory to a non-git vault safely: read-before-write, .bak backup, idempotent append, mtime guard, atomic write. Hardened through a multi-round expert-council audit and failure-mode simulation."
+type: software
+authors:
+  - family-names: "Le"
+    given-names: "Cong Hoang"
+    email: "leconghoangstudio@gmail.com"
+version: "2.1"
+date-released: "2026-06-21"
+license: Apache-2.0
+repository-code: "https://github.com/hoangCreative/claude-session-save"
+keywords:
+  - claude-code
+  - agent-skills
+  - session-management
+  - memory-persistence
+  - ai-agents
+  - reproducible-engineering

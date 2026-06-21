@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# luu working artifacts (never commit a user's vault backups)
+*.bak
+*.tmp
+active.md.bak
+active.md.tmp
